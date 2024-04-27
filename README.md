@@ -15,3 +15,5 @@ I'm passionate about harnessing the power of data to drive insights and inform d
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect! You can find my contact information in the portfolio or reach me via email at: [👩🏾‍💻](mailto:moniqueogunk@icloud.com)
 
 Thank you for visiting my portfolio! 📊✨
+
+<!--add readme document to each category stating which are self learning -->
